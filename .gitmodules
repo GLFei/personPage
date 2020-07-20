@@ -1,3 +1,6 @@
 [submodule "vue-next"]
 	path = vue-next
 	url = https://github.com/GLFei/vue-next.git
+[submodule "typo.css"]
+	path = typo.css
+	url = https://github.com/GLFei/typo.css.git
